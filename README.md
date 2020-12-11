@@ -1,2 +1,2 @@
 # ReactWebpackHelloWorld
-Create React Project without create-react-app. Use only webpack config.
+Create react project without create-react-app. Use only webpack config.
